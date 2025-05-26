@@ -87,3 +87,5 @@ int main() {
 
 
 # Result:
+
+Thus, the implement the Row Column transformation.
